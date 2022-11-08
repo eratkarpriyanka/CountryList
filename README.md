@@ -1,2 +1,2 @@
-# RegionsInfo
+# CountryList
 Displays list Regions
