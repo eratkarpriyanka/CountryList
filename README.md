@@ -9,7 +9,7 @@ Displays list Countries in a list
 
 ## Video walkthrough :
 
-<img src='https://user-images.githubusercontent.com/1344764/200493866-c6e8ff1d-7b15-46da-8e94-527a882f646e.gif' title='Video Walkthrough' width="300" alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/1344764/200495771-8c22a51e-4094-4e20-a46c-088506b99665.gif' title='Video Walkthrough' width="300" alt='Video Walkthrough' />
 
 ## This code designed follows 
 
