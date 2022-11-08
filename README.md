@@ -1,0 +1,2 @@
+# RegionsInfo
+Displays list Regions
